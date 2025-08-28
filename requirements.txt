@@ -1,0 +1,12 @@
+tk
+requests
+pylint
+pytest
+nbval
+pytest-cov
+pyinstaller
+scipy
+pandas
+numpy
+Pillow
+tkintermapview
